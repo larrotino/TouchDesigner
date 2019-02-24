@@ -1,2 +1,2 @@
-# TouchDesigner
-esperimenti e prove
+# TouchDesigner_esperimenti
+esercizi dal sito https://matthewragan.com/
